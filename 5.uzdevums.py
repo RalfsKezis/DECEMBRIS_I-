@@ -7,4 +7,4 @@ if 5 <= pašreizējā_stunda < 12:
 elif 12 <= pašreizējā_stunda < 18:
     print("Labdien!")
 else:
-    print("Labvakar!")
+    print("Labvaka!")
